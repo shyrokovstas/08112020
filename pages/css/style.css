@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+h3 {
+  color: green;
+  font-style: italic;
+  font-weight: bolder;
+}
+span#creationData {
+  font-size: 20px;
+  color: grey;
+}
+article#personal {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  color: black;
+}
+ul {
+  list-style-type: circle;
+}
+
+#divId {
+  font-size: 50px;
+  color: red;
+}
+
+.divClass {
+  font-size: 70px;
+  color: greenyellow;
+}
