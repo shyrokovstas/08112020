@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+}
+
+p {
+  font-size: 10px;
+  font-weight: bold;
+  color: blue;
+}
+h1 {
+  font-size: 25px;
+  font-style: italic;
+  color: red;
+  border: 1px solid darkblue;
+  width: 250px;
+}
+h2 {
+  font-size: 30px;
+  font-style: italic;
+  color: green;
+  border: 1px solid darkblue;
+  width: 250px;
+}
+h3 {
+  font-size: 40px;
+  font-style: italic;
+  color: yellow;
+  border: 1px solid darkblue;
+  width: 250px;
+}
+li {
+  font-size: 15px;
+  color: darkblue;
+}
+.divStyle1 {
+  font-size: 30px;
+  color: aquamarine;
+}
+.divStyle2 {
+  font-size: 30px;
+  color: darkmagenta;
+}
+.divStyle3 {
+  font-size: 30px;
+  color: darkorange;
+}

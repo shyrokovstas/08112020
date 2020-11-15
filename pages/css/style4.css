@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: yellow;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#banner {
+  height: 300px;
+  width: 900px;
+  background-image: url("https://www.elite-games.ru/images/art/program/pic7gif2.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  border: 1px solid blue;
+}
+#banner p {
+  font-size: 20px;
+}
+#banner a {
+  border: 1px solid gray;
+  padding: 5px;
+  margin: 2px;
+  color: blueviolet;
+  text-decoration: none;
+  text-transform: capitalize;
+  display: inline-block;
+}
+#banner a:hover {
+  background-color: aqua;
+  color: red;
+}
+
+/*
+li {
+  border: 2px solid blue;
+  display: inline-block;
+  height: 50px;
+  width: 80px;
+  vertical-align: middle;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+*/
